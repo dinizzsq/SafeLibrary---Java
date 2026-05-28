@@ -1,4 +1,4 @@
-# 📚 Library Management System
+# SafeLibrary
 
 Sistema de gerenciamento de biblioteca desenvolvido em Java utilizando Programação Orientada a Objetos (POO).
 
